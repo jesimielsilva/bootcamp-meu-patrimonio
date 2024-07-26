@@ -1,0 +1,1 @@
+web: java -jar build/libs/bootcamp-meu-patrimonio-0.0.1-SNAPSHOT.jar
